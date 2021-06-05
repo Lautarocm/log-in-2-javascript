@@ -17,7 +17,6 @@ while(loginPassword == ""){
 }
 
 if((username === loginUsername) && (password === loginPassword)){
-    alert(succesLogin)
     alert("Bienvenido")
 }
 else{
